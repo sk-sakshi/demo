@@ -1,0 +1,1 @@
+No Content: https://simptionerp.com/school_software_v1_old/admin/examination/ajax_view_marksheet_monthly.php?id=NURSERY&student_section=B&student_exam_type=exam1&student_class_stream=&student_class_group=
